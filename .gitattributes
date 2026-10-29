@@ -1,0 +1,2 @@
+# The launcher runs on the Kindle's Linux shell and must keep LF line endings.
+*.sh text eol=lf
